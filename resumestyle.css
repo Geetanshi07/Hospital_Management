@@ -54,12 +54,12 @@
 }
 
 .backgroundtop{
-    background: rgba(0, 0, 0, 0.7) url('../Img_project/doctor.jpg');
+    background: rgba(0, 0, 0, 0.7) url('doctor.jpg');
     background-size: cover;
     background-blend-mode:lighten;
 }
 .backgrounddown{
-    background: rgba(0, 0, 0, 0.7) url('../Img_project/doctor.jpg');
+    background: rgba(0, 0, 0, 0.7) url('doctor.jpg');
     background-size: cover;
     background-blend-mode:lighten;
 }
